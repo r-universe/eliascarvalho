@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bnpa"]
+	path = bnpa
+	url = https://github.com/cran/bnpa
+	shallow = true
+	registered = true
